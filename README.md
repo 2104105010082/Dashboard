@@ -11,7 +11,7 @@ Proyek ini merupakan analisis dan visualisasi data sistem peminjaman sepeda meng
 - Korelasi antar variabel numerik
 - Analisis musiman dan pengaruh cuaca
 - Perbandingan hari kerja vs hari libur
-- Segmentasi pengguna berdasarkan analisis RFM (Recency, Frequency, Monetary)
+
 
 ## 📦 Library yang Digunakan
 
